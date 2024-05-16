@@ -1,1 +1,1 @@
-Into to Git with Odin.
+Intro to Git with Odin.
